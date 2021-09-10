@@ -4,9 +4,9 @@ _The Guru ecosystem consists of too many Smart Contracts. This page attempts to 
 - https://ftm.guru/docs.html
 - https://kcc.guru/docs
 # Index
-Serial | Project | Name | Address
----- | ---- | ---- | ----
-[1.0.0](#eg) | Elite Gems Voting | Voting Contract | [`0x123`](https://ftmscan/address/)
+| Serial | Project | Name | Address |
+| ---- | ---- | ---- | ---- |
+| [1.0.0](#eg) | Elite Gems Voting | Voting Contract | [`0x123`](https://ftmscan/address/) |
 
 # Summary
 - Kucino Token
