@@ -1,11 +1,12 @@
 # ftm.guru/docs
 _The Guru ecosystem consists of too many Smart Contracts. This page attempts to documemt their use, specifications and guides here._
 ## Previous Docs
-- https://ftm.guru/docs.html
-- https://kcc.guru/docs
+### [https://ftm.guru/docs.html](https://ftm.guru/docs.html)
+### [https://kcc.guru/docs](https://kcc.guru/docs)
 # Index
+
 | Serial | Project | Name | Address |
-| ---- | ---- | ---- | ---- |
+| --- | --- | --- | --- |
 | [1.0.0](#eg) | Elite Gems Voting | Voting Contract | [`0x123`](https://ftmscan/address/) |
 
 # Summary
