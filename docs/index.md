@@ -3,8 +3,8 @@ _The Guru ecosystem consists of too many Smart Contracts. This page attempts to 
 ## Previous Docs
 ### [https://ftm.guru/docs.html](https://ftm.guru/docs.html)
 ### [https://kcc.guru/docs](https://kcc.guru/docs)
-# Index
 
+# Index
 | Serial | Project | Name | Address |
 | --- | --- | --- | --- |
 | [1.0.0](#eg) | Elite Gems Voting | Voting Contract | [`0x123`](https://ftmscan/address/) |
@@ -37,6 +37,7 @@ _The Guru ecosystem consists of too many Smart Contracts. This page attempts to 
   - LF#2004
   - LF#2005
   - LF#2006
+ 
  # Details
  ## 1. Elite Gems Voting
  ### 1.1 Voting Contract
