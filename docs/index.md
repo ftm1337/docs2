@@ -5,6 +5,7 @@ _The Guru ecosystem consists of too many Smart Contracts. This page attempts to 
 ### [https://kcc.guru/docs](https://kcc.guru/docs)
 
 # Index
+
 | Serial | Project | Name | Address |
 | --- | --- | --- | --- |
 | [1.0.0](#eg) | Elite Gems Voting | Voting Contract | [`0x123`](https://ftmscan/address/) |
@@ -38,9 +39,9 @@ _The Guru ecosystem consists of too many Smart Contracts. This page attempts to 
   - LF#2005
   - LF#2006
  
- # Details
- ## 1. Elite Gems Voting
- ### 1.1 Voting Contract
+# Details
+## 1. Elite Gems Voting
+### 1.1 Voting Contract
 Voting pushes the Voted Token to the top of the Elite list.
 - CA - [`0x123`](https://ftmscan.com)
 - Fees - 0.0001337 ELITE (Burned to `0x00`)
